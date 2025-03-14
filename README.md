@@ -56,7 +56,7 @@ Also, in the project files you can tell the project was originally called ```PRO
    ```
 3. Change into the project directory:
    ```bash
-   cd your-repo-name
+   cd IDEA-MR-Room-Planner
    ```
 
 ### Unity Project Setup
