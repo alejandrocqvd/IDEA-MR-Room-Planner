@@ -12,6 +12,8 @@ This mixed reality experience offers a new way to explore interior design, makin
 
 Due to the large file size of .glb 3D models, a good amount of assets were excluded from this repository.
 
+Also, in the project files you can tell the project was originally called ```PROJECT-MR```, this was before I realized IDEA MR Room Planner was a lot cooler (the logo is from Escape from Tarkov).
+
 ## Features
 
 - **Life-Sized 3D Models:** Visualize furniture at true scale within your actual space.
