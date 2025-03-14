@@ -52,7 +52,7 @@ Also, in the project files you can tell the project was originally called ```PRO
 1. Open your terminal or command prompt.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/alejandrocqvd/IDEA-MR-Room-Planner.git
    ```
 3. Change into the project directory:
    ```bash
