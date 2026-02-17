@@ -1,5 +1,7 @@
 # IDEA Mixed Reality Room Planner
 
+For a live demo, [check here](https://acardona.ca/projects)
+
 Using Unity 6 and Meta's XR SDK, I developed a mixed reality app for the Quest 3 that allows users to visualize and customize their living spaces with life-sized 3D furniture models, in real time. 
 
 The app features advanced hand tracking, giving users the freedom to grab, move, and arrange furniture as they would naturally, without the need for controllers. Users can grab the virtual catalogue panel to view a selection of over 100+ unique pieces, including armchairs, desks, drawers, lamps, bookcases, and sofas. 
